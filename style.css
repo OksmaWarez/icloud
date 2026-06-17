@@ -90,6 +90,7 @@
       color: #fff;
       background: var(--link);
       font-weight: 600;
+      width: 860px;
     }
     /* Theme toggle button */
     .theme-toggle {
