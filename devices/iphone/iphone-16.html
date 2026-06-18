@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>iCloud Bypass Guide - iPhone 16</title>
+  <link rel="stylesheet" href="../../style.css">
+  <style>
+    .chart-container {
+      margin: 24px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    thead {
+      background: transparent;
+      border-bottom: 1px solid var(--border);
+    }
+    th, td {
+      padding: 14px;
+      text-align: left;
+      color: var(--text);
+      font-size: 0.95rem;
+    }
+    th {
+      font-weight: 700;
+    }
+    td {
+      border-bottom: 1px solid var(--border);
+    }
+    tbody tr:last-child td {
+      border-bottom: none;
+    }
+    .back-link {
+      display: inline-block;
+      margin-bottom: 24px;
+      color: var(--link);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .back-link:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body class="dark">
+  <div class="page">
+    <a href="../../charts/index.html" class="back-link"><- Back to Compatibility Chart</a>
+    <header>
+      <div style="display:flex;align-items:center;gap:12px;justify-content:space-between;">
+        <div>
+          <h1>Version Selection (iPhone 16)</h1>
+          <p class="lead">Different firmware versions will require different steps to bypass your iOS device. This page will help you find where to start. Select the appropriate page for your version from the chart below. Note that the "from" and "to" fields are inclusive. This means that, for example, the "from 10.0 to 10.3.4" row includes version 10.0, version 10.3.4, and all versions in-between.</p>
+        </div>
+        <div>
+          <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">Toggle Theme</button>
+        </div>
+      </div>
+
+    <section class="card chart-container">
+      <h2>iPhone 16</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>From</th>
+            <th>To</th>
+            <th>Hello Screen</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>26.1 (26.2 beta 2)</td>
+            <td>26.5</td>
+            <td>-</td>
+          </tr>
+          <tr>
+            <td>18.0</td>
+            <td>26.1 (26.2 beta 1)</td>
+            <td><a href="../../guides/using-hackt1vator.html">Using Hackt1vator</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <footer>
+      <p>For educational purposes only. Respect ownership and legal restrictions.</p>
+    </footer>
+  </div>
+  <script>
+    (function(){
+      var btn = document.getElementById('theme-toggle');
+      function applyTheme(theme){
+        if(theme === 'light') document.body.classList.remove('dark');
+        else document.body.classList.add('dark');
+        if(btn) btn.textContent = theme === 'light' ? 'Going dark!' : 'Turn the lights on!';
+      }
+      var stored = localStorage.getItem('theme');
+      if(stored) applyTheme(stored);
+      else applyTheme('dark');
+      if(btn){
+        btn.addEventListener('click', function(){
+          var isDark = document.body.classList.contains('dark');
+          var next = isDark ? 'light' : 'dark';
+          localStorage.setItem('theme', next);
+          applyTheme(next);
+        });
+      }
+    })();
+  </script>
+</body>
+</html>
+
+
