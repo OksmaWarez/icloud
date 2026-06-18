@@ -27,9 +27,9 @@
 - [x] iPhone 17e
 
 ### iPad charts
-- [ ] iPad 2
-- [ ] iPad 3rd Gen
-- [ ] iPad 4th Gen
+- [x] iPad 2
+- [x] iPad 3rd Gen
+- [x] iPad 4th Gen
 - [ ] iPad 5th Gen
 - [ ] iPad 6th Gen
 - [ ] iPad 7th Gen
