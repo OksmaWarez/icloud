@@ -16,15 +16,15 @@
 - [x] iPhone 11
 - [x] iPhone SE 2nd Gen
 - [x] iPhone 12
-- [ ] iPhone 13
-- [ ] iPhone SE 3rd Gen
-- [ ] iPhone 14
-- [ ] iPhone 15
-- [ ] iPhone 16
-- [ ] iPhone 16e
-- [ ] iPhone 17
-- [ ] iPhone Air
-- [ ] iPhone 17e
+- [x] iPhone 13
+- [x] iPhone SE 3rd Gen
+- [x] iPhone 14
+- [x] iPhone 15
+- [x] iPhone 16
+- [x] iPhone 16e
+- [x] iPhone 17
+- [x] iPhone Air
+- [x] iPhone 17e
 
 ### iPad charts
 - [ ] iPad 2
