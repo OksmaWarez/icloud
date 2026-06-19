@@ -39,9 +39,9 @@
 - [x] iPad 11th Gen
 
 ### iPod Touch charts
-- [ ] iPod Touch 5th Gen
-- [ ] iPod Touch 6th Gen
-- [ ] iPod Touch 7th Gen
+- [x] iPod Touch 5th Gen
+- [x] iPod Touch 6th Gen
+- [x] iPod Touch 7th Gen
 
 ### Tutorials
 - [ ] Removing setup.app
