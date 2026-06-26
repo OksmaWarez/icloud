@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A complete iCloud bypass guide, from stock to bypassed.">
+  <meta name="subtitle" content="A complete iCloud bypass guide, from stock to bypassed.">
+  <meta name="title" content="iCloud Bypass Guide | Deleting Setup.app">
+  <title>iCloud Bypass Guide - Using 32bit-Bruteforce-Passcode</title>
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    .back-link {
+      display: inline-block;
+      margin-bottom: 24px;
+      color: var(--link);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .back-link:hover {
+      text-decoration: underline;
+    }
+    .step {
+      margin-bottom: 20px;
+    }
+    .step h3 {
+      color: var(--link);
+      margin: 0 0 10px 0;
+      font-size: 1.1rem;
+    }
+    .step p {
+      margin: 0;
+      line-height: 1.7;
+      color: var(--text);
+    }
+    .warning {
+      background: rgba(255, 59, 48, 0.1);
+      border-left: 4px solid #ff3b30;
+      padding: 12px 16px;
+      border-radius: 8px;
+      margin: 16px 0;
+      color: var(--text);
+    }
+    .info {
+      background: rgba(10, 132, 255, 0.1);
+      border-left: 4px solid #0a84ff;
+      padding: 12px 16px;
+      border-radius: 8px;
+      margin: 16px 0;
+      color: var(--text);
+    }
+    .tool-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 10px 0 18px 0;
+    }
+    .tool-button {
+      background: transparent;
+      border: 1px solid var(--link);
+      color: var(--link);
+      padding: 8px 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.2s ease, color 0.2s ease;
+    }
+    .tool-button:hover,
+    .tool-button:focus {
+      background: rgba(255, 255, 255, 0.08);
+      outline: none;
+    }
+    .tool-button.active {
+      background: var(--link);
+      color: var(--bg);
+      border-color: var(--link);
+    }
+    .tool-instructions {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 12px;
+      padding: 16px;
+      margin-top: 0;
+      color: var(--text);
+    }
+    .tool-instructions h4 {
+      margin-top: 0;
+      color: var(--link);
+    }
+    code {
+      background: var(--bg);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: 'Courier New', monospace;
+      color: var(--link);
+    }
+  </style>
+</head>
+<body class="dark">
+  <div class="page">
+    <a href="../index.html" class="back-link"><- Back to Home</a>
+
+    <header>
+      <div style="display:flex;align-items:center;gap:12px;justify-content:space-between;">
+        <div>
+          <h1>Using 32bit-Bruteforce-Passcode</h1>
+        </div>
+        <div>
+          <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">Toggle Theme</button>
+        </div>
+      </div>
+    </header>
+
+    <section class="card">
+      <h2>Overview</h2>
+      <p>Bruteforcing a passcode (using 32bit-bruteforce-passcode) is a way of getting the passcode on 32-bit iOS devices, so you can unlock the device.</p>
+    </section>
+
+    <section class="card">
+      <h2>Prerequisites</h2>
+      <div class="step">
+        <h3>What You'll Need</h3>
+        <p>A computer running Linux or macOS</p>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Step-by-Step Guide</h2>
+      
+      <div class="step">
+        <h3>Step 1: Setting Up</h3>
+        <p>Download the utility from the link provided, and extract it.</p>
+        <p>https://github.com/tuanemss/32bit-Bruteforce-Passcode/releases/tag/new/</p>
+        <p>Put the device into DFU mode, then follow step 2.</p>
+      </div>
+
+      <div class="step">
+        <h3>Step 2: Using the tool</h3>
+        <p>Open up terminal, and navigate to where you extracted the .zip file.</p>
+        <p>Then, run this command in terminal.</p>
+        <ul>
+          <li><code>./bruteforce.sh</code></li>
+        </ul>
+        <p>From there, it should continue the bruteforcing automatically. Your passcode should be displayed on screen after some time.</p>
+      </div>
+
+      <div class="step">
+        <h3>Step 3: Reboot</h3>
+        <p>Reboot your device to apply the changes by either holding the power and home buttons for 10 seconds. Your device should now boot into the lock screen, where you can enter the passcode.</p>
+      </div>
+    </section>
+
+    <footer>
+      <p>For educational purposes only. Respect device ownership and local laws.</p>
+    </footer>
+  </div>
+  <script>
+    (function(){
+      var btn = document.getElementById('theme-toggle');
+      function applyTheme(theme){
+        if(theme === 'light') document.body.classList.remove('dark');
+        else document.body.classList.add('dark');
+        if(btn) btn.textContent = theme === 'light' ? 'Going dark!' : 'Turn the lights on!';
+      }
+      var stored = localStorage.getItem('theme');
+      if(stored) applyTheme(stored);
+      else applyTheme('dark'); // default
+      if(btn){
+        btn.addEventListener('click', function(){
+          var isDark = document.body.classList.contains('dark');
+          var next = isDark ? 'light' : 'dark';
+          localStorage.setItem('theme', next);
+          applyTheme(next);
+        });
+      }
+
+      var toolButtons = document.querySelectorAll('.tool-button');
+      var legacyInstructions = document.getElementById('legacy-instructions');
+      var sshrdInstructions = document.getElementById('sshrd-instructions');
+
+      function selectTool(tool) {
+        toolButtons.forEach(function(button){
+          button.classList.toggle('active', button.dataset.tool === tool);
+        });
+        legacyInstructions.hidden = tool !== 'legacy';
+        sshrdInstructions.hidden = tool !== 'sshrd';
+      }
+
+      toolButtons.forEach(function(button){
+        button.addEventListener('click', function(){
+          selectTool(button.dataset.tool);
+        });
+      });
+
+      selectTool('legacy');
+    })();
+  </script>
+</body>
+</html>
+
