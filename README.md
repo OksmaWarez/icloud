@@ -44,8 +44,8 @@
 - [x] iPod Touch 7th Gen
 
 ### Tutorials
-- [ ] Removing setup.app
-- [ ] Using 32bit-Bruteforce-Passcode
+- [x] Removing setup.app
+- [x] Using 32bit-Bruteforce-Passcode
 - [ ] Using iFRPFILE
 - [ ] Using Hackt1vator
 - [ ] Using R1nderpest
