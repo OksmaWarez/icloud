@@ -35,32 +35,32 @@
 
 ### iPad Air charts
 - [x] iPad Air
-- [x] iPad Air 2
-- [x] iPad Air 3
-- [x] iPad Air 4
-- [x] iPad Air 5
-- [x] iPad Air 6
-- [x] iPad Air 7
-- [x] iPad Air 8
+- [x] iPad Air 2nd Gen
+- [x] iPad Air 3rd Gen
+- [x] iPad Air 4th Gen
+- [x] iPad Air 5th Gen
+- [x] iPad Air 6th Gen
+- [x] iPad Air 7th Gen
+- [x] iPad Air 8th Gen
 
 ### iPad Mini charts
 - [x] iPad Mini
-- [x] iPad Mini 2
-- [x] iPad Mini 3
-- [x] iPad Mini 4
-- [x] iPad Mini 5
-- [x] iPad Mini 6
-- [x] iPad Mini 7
+- [x] iPad Mini 2nd Gen
+- [x] iPad Mini 3rd Gen
+- [x] iPad Mini 4th Gen
+- [x] iPad Mini 5th Gen
+- [x] iPad Mini 6th Gen
+- [x] iPad Mini 7th Gen
 
 ### iPad Pro charts
 - [x] iPad Pro
-- [x] iPad Pro 2
-- [x] iPad Pro 3
-- [x] iPad Pro 4
-- [x] iPad Pro 5
-- [x] iPad Pro 6
-- [x] iPad Pro 7
-- [x] iPad Pro 8
+- [x] iPad Pro 2nd Gen
+- [x] iPad Pro 3rd Gen
+- [x] iPad Pro 4th Gen
+- [x] iPad Pro 5th Gen
+- [x] iPad Pro 6th Gen
+- [x] iPad Pro 7th Gen
+- [x] iPad Pro 8th Gen
 
 ### iPad charts
 - [x] iPad 2
