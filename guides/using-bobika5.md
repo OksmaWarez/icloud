@@ -9,6 +9,12 @@ description: Using BobikA5 | iCloud Bypass Guide
 
 BobikA5 is an untethered bypass tool for compatible iOS versions from 7.0 to 10.3.4
 
+::: warning
+While BobikA5 does indeed work, it's not recommended to use it. Its device/iOS version support is extremely spotty, and even (allegedly) supported devices have had trouble getting activated with the tool in the past.
+
+The developer has also been known to steal code and break licenses on other tools. When possible, use <a href="using-hacktiv8.html">hacktiv8</a> instead.
+:::
+
 ## Prerequisites
 
 ### What You'll Need
