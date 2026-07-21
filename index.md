@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "iCloud Bypass Guide"
-  text: "A complete iCloud bypassing guide, from stock to bypassed."
-  tagline: My great project tagline
+  #text: "A complete iCloud bypassing guide, from stock to bypassed."
+  tagline: A complete iCloud bypassing guide, from stock to bypassed.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Compatibility Chart
+      link: /charts/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Read the guide
+      link: /guides/deleting-setupapp
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Device compatibility
+    details: Find the latest listed iOS or iPadOS version for each supported device.
+  - title: Clear status labels
+    details: Quickly distinguish latest-version support, older-version compatibility, and unavailable methods.
+  - title: Practical guides
+    details: Browse device-specific information and educational resources from one place.
 ---
 
