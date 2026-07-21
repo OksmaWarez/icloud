@@ -31,12 +31,10 @@ A computer running Linux or macOS with the following installed:
 
 ### Step 1: Ramdisk creation
 
-Select one of the tools below to show the matching ramdisk creation instructions.
+Click one of the tools below to reveal the matching ramdisk creation instructions.
 
-**Legacy-iOS-Kit**
-**SSHRD_Script**
 
-#### Legacy-iOS-Kit Instructions
+::: details **Legacy-iOS-Kit** Instructions
 
 - Download Legacy iOS Kit and extract the zip archive.
 
@@ -60,7 +58,9 @@ Select one of the tools below to show the matching ramdisk creation instructions
 
 - Finally, run `mount.sh` to mount the filesystems.
 
-#### SSHRD_Script Instructions
+:::
+
+::: details **SSHRD_Script** Instructions
 
 - Clone the SSHRD_Script repository and enter it using the terminal: `git clone https://github.com/verygenericname/SSHRD_Script --recursive && cd SSHRD_Script`.
 
@@ -73,6 +73,8 @@ Select one of the tools below to show the matching ramdisk creation instructions
 - Run `./sshrd.sh ssh` to connect to SSH on your device.
 
 - Mount the filesystems by running `mount_filesystems`.
+
+:::
 
 ### Step 2: Remove setup.app
 
