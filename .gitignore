@@ -4,3 +4,8 @@
 !.dev.vars.example
 .env*
 !.env.example
+
+# vitepress stuff
+.vitepress/dist
+.vitepress/cache
+node_modules
