@@ -27,22 +27,22 @@ description: Different firmware versions will require different steps to bypass 
           <tr>
             <td>18.0</td>
             <td>26.1 (26.2 Beta 1)</td>
-            <td><a href="../../guides/using-hackt1vator.html">Using Hackt1vator</a></td>
+            <td><a href="/guides/using-hackt1vator">Using Hackt1vator</a></td>
           </tr>
           <tr>
             <td>17.0</td>
             <td>17.7</td>
-            <td><a href="../../guides/using-bookra1n-checkm8.html">Using bookra1n (checkm8)</a></td>
+            <td><a href="/guides/using-bookra1n-checkm8">Using bookra1n (checkm8)</a></td>
           </tr>
           <tr>
             <td>13.1</td>
             <td>16.6.1</td>
-            <td><a href="../../guides/using-hackt1vator.html">Using Hackt1vator</a></td>
+            <td><a href="/guides/using-hackt1vator">Using Hackt1vator</a></td>
           </tr>
           <tr>
             <td>12.2</td>
             <td>12.4.1</td>
-            <td><a href="../../guides/using-ifrpfile.html">Using iFRPFILE</a></td>
+            <td><a href="/guides/using-ifrpfile">Using iFRPFILE</a></td>
           </tr>
         </tbody>
       </table>

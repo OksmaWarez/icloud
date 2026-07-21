@@ -23,18 +23,18 @@ description: Different firmware versions will require different steps to bypass 
           <tr>
             <td>10.3.3</td>
             <td>10.3.4</td>
-            <td><a href="../../guides/using-hacktiv8.html">Using hacktiv8</a></td>
-            <td rowspan="3"><a href="../../guides/using-32bit-bruteforce-passcode.html">Using 32bit-Bruteforce-Passcode</a></td>
+            <td><a href="/guides/using-hacktiv8">Using hacktiv8</a></td>
+            <td rowspan="3"><a href="/guides/using-32bit-bruteforce-passcode">Using 32bit-Bruteforce-Passcode</a></td>
           </tr>
           <tr>
             <td>7.0</td>
             <td>10.3.2</td>
-            <td><a href="../../guides/deleting-setupapp.html">Deleting setup.app</a></td>
+            <td><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
           </tr>
           <tr>
             <td>6.0</td>
             <td>6.1.4</td>
-            <td><a href="../../guides/using-lockdownd-activation.html">Using Lockdownd Activation</a></td>
+            <td><a href="/guides/using-lockdownd-activation">Using Lockdownd Activation</a></td>
           </tr>
         </tbody>
       </table>

@@ -23,13 +23,13 @@ description: Different firmware versions will require different steps to bypass 
           <tr>
             <td>13.0</td>
             <td>15.8.8</td>
-            <td><a href="../../guides/using-hackt1vator.html">Using Hackt1vator</a></td>
-            <td rowspan="2"><a href="../../guides/restoring-with-activation-tickets.html">Restoring with Activation Tickets</a></td>
+            <td><a href="/guides/using-hackt1vator">Using Hackt1vator</a></td>
+            <td rowspan="2"><a href="/guides/restoring-with-activation-tickets">Restoring with Activation Tickets</a></td>
           </tr>
           <tr>
             <td>12.3.1</td>
             <td>12.4.1</td>
-            <td><a href="../../guides/using-ifrpfile.html">Using iFRPFILE</a></td>
+            <td><a href="/guides/using-ifrpfile">Using iFRPFILE</a></td>
           </tr>
         </tbody>
       </table>

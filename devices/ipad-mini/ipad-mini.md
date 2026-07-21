@@ -23,23 +23,23 @@ description: Different firmware versions will require different steps to bypass 
           <tr>
             <td>9.0</td>
             <td>9.3.6</td>
-            <td><a href="../../guides/deleting-setupapp.html">Deleting setup.app</a></td>
-            <td rowspan="4"><a href="../../guides/using-32bit-bruteforce-passcode.html">Using 32bit-Bruteforce-Passcode</a></td>
+            <td><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
+            <td rowspan="4"><a href="/guides/using-32bit-bruteforce-passcode">Using 32bit-Bruteforce-Passcode</a></td>
           </tr>
           <tr>
             <td>8.4.1</td>
             <td>8.4.1</td>
-            <td><a href="../../guides/using-hacktiv8.html">Using hacktiv8</a></td>
+            <td><a href="/guides/using-hacktiv8">Using hacktiv8</a></td>
           </tr>
           <tr>
             <td>7.0</td>
             <td>8.4</td>
-            <td><a href="../../guides/deleting-setupapp.html">Deleting setup.app</a></td>
+            <td><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
           </tr>
           <tr>
             <td>6.0</td>
             <td>6.1.3</td>
-            <td><a href="../../guides/using-lockdownd-activation.html">Using Lockdownd Activation</a></td>
+            <td><a href="/guides/using-lockdownd-activation">Using Lockdownd Activation</a></td>
           </tr>
         </tbody>
       </table>

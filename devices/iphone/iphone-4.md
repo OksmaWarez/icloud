@@ -23,13 +23,13 @@ description: Different firmware versions will require different steps to bypass 
           <tr>
             <td>7.1.2</td>
             <td>7.0</td>
-            <td><a href="../../guides/deleting-setupapp.html">Deleting setup.app</a></td>
-            <td rowspan="3"><a href="../../guides/using-32bit-bruteforce-passcode.html">Using 32bit-Bruteforce-Passcode</a></td>
+            <td><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
+            <td rowspan="3"><a href="/guides/using-32bit-bruteforce-passcode">Using 32bit-Bruteforce-Passcode</a></td>
           </tr>
           <tr>
             <td>5.0</td>
             <td>6.1.3</td>
-            <td><a href="../../guides/using-lockdownd-activation.html">Using Lockdownd Activation</a></td>
+            <td><a href="/guides/using-lockdownd-activation">Using Lockdownd Activation</a></td>
           </tr>
            <tr>
             <td>4.0</td>

@@ -12,17 +12,17 @@ export default defineConfig({
       { text: 'Compatibility Chart', link: '/charts/' }
     ],
 
-    sidebar: [
+    /*sidebar: [
       {
         text: 'iCloud Bypass Guide',
         items: [
           { text: 'Compatibility Chart', link: '/charts/' }
         ]
       }
-    ],
+    ],*/
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/OksmaWarez/icloud' }
     ]
   }
 })

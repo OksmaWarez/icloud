@@ -27,7 +27,7 @@ description: Different firmware versions will require different steps to bypass 
           <tr>
             <td>18.0.1</td>
             <td>26.1 (26.2 beta 1)</td>
-            <td><a href="../../guides/using-hackt1vator.html">Using Hackt1vator</a></td>
+            <td><a href="/guides/using-hackt1vator">Using Hackt1vator</a></td>
           </tr>
         </tbody>
       </table>

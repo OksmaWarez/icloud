@@ -27,12 +27,12 @@ description: Different firmware versions will require different steps to bypass 
           <tr>
             <td>18.0</td>
             <td>18.7.2</td>
-            <td><a href="../../guides/using-hackt1vator.html">Using Hackt1vator</a></td>
+            <td><a href="/guides/using-hackt1vator">Using Hackt1vator</a></td>
           </tr>
           <tr>
             <td>14.0</td>
             <td>17.7</td>
-            <td><a href="../../guides/using-r1nderpest.html">Using R1nderpest</a>/<a href="../../guides/using-bookra1n.html">Using bookra1n</a></td>
+            <td><a href="/guides/using-r1nderpest">Using R1nderpest</a>/<a href="/guides/using-bookra1n">Using bookra1n</a></td>
           </tr>
           <tr>
             <td>12.0</td>

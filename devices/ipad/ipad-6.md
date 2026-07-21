@@ -23,23 +23,23 @@ description: Different firmware versions will require different steps to bypass 
           <tr>
             <td>17.0</td>
             <td>17.7.11</td>
-            <td><a href="../../guides/using-bookra1n-checkm8.html">Using bookra1n (checkm8)</a></td>
-            <td rowspan="4"><a href="../../guides/restoring-with-activation-tickets.html">Restoring with Activation Tickets</a></td>
+            <td><a href="/guides/using-bookra1n-checkm8">Using bookra1n (checkm8)</a></td>
+            <td rowspan="4"><a href="/guides/restoring-with-activation-tickets">Restoring with Activation Tickets</a></td>
           </tr>
           <tr>
             <td>13.0</td>
             <td>16.6.1</td>
-            <td><a href="../../guides/using-hackt1vator.html">Using Hackt1vator</a></td>
+            <td><a href="/guides/using-hackt1vator">Using Hackt1vator</a></td>
           </tr>
           <tr>
             <td>12.0</td>
             <td>12.4.1</td>
-            <td><a href="../../guides/using-ifrpfile.html">Using iFRPFILE</a></td>
+            <td><a href="/guides/using-ifrpfile">Using iFRPFILE</a></td>
           </tr>
           <tr>
             <td>11.3</td>
             <td>11.4.1</td>
-            <td><a href="../../guides/deleting-setupapp.html">Deleting setup.app</a></td>
+            <td><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
           </tr>
         </tbody>
       </table>
