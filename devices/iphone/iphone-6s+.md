@@ -32,9 +32,14 @@ description: Different firmware versions will require different steps to bypass 
             <td><a href="/guides/using-ifrpfile">Using iFRPFILE</a></td>
           </tr>
           <tr>
-            <td>9.0</td>
+            <td>10.0.1</td>
             <td>11.4.1</td>
-            <td><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
+            <td rowspan="2"><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
+          </tr>
+          <tr>
+            <td>9.0</td>
+            <td>9.3.5</td>
+            <td>-</td>
           </tr>
         </tbody>
       </table>

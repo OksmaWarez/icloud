@@ -4,7 +4,6 @@ layout: home
 
 hero:
   name: "iCloud Bypass Guide"
-  #text: "A complete iCloud bypassing guide, from stock to bypassed."
   tagline: A complete iCloud bypassing guide, from stock to bypassed.
   
   actions:

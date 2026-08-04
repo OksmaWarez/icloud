@@ -24,23 +24,22 @@ description: Different firmware versions will require different steps to bypass 
             <td>12.0</td>
             <td>12.5.8</td>
             <td><a href="/guides/using-ifrpfile">Using iFRPFILE</a></td>
-            <td rowspan="3"><a href="/guides/restoring-with-activation-tickets">Restoring with Activation Tickets</a></td>
+            <td rowspan="2"><a href="/guides/restoring-with-activation-tickets">Restoring with Activation Tickets</a></td>
           </tr>
           <tr>
-            <td>10.0</td>
+            <td>10.0.1</td>
             <td>11.4.1</td>
-            <td><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
+            <td rowspan="3"><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
           </tr>
           <tr>
             <td>9.0</td>
             <td>9.3.5</td>
-            <td><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
+            <td>-</td>
           </tr>
           <tr>
             <td>7.0</td>
             <td>8.4.1</td>
-            <td><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
-            <td><a href="/guides/using-32bit-bruteforce-passcode">Using 32bit-Bruteforce-Passcode</a></td>
+            <td><a href="/guides/obtaining-unlimited-passcode-attempts">Obtaining Unlimited Passcode Attempts</a></td>
           </tr>
         </tbody>
       </table>
