@@ -31,7 +31,7 @@ A computer running Linux or macOS with the following installed:
 
 Click one of the tools below to reveal the matching ramdisk creation instructions.
 
-::: info
+::: tip
 
 You can find your iOS version by using [iDescriptor](https://github.com/iDescriptor/iDescriptor) (all platforms) or [Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) (Linux/macOS).
 
@@ -53,7 +53,7 @@ You can find your iOS version by using [iDescriptor](https://github.com/iDescrip
 
 ::: details **SSHRD_Script** Instructions
 
-- Clone the SSHRD_Script repository and enter it using the terminal: `git clone https://github.com/verygenericname/SSHRD_Script --recursive && cd SSHRD_Script`.
+- Clone the SSHRD_Script repository and enter it using the terminal: `git clone https://github.com/iPh0ne4s/SSHRD_Script --recursive`.
 - Run `./sshrd.sh [iOS version for ramdisk]`.
 - Run `./sshrd.sh boot` to boot the ramdisk.
 - Run `./sshrd.sh ssh` to connect to SSH on your device.

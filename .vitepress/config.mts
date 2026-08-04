@@ -12,6 +12,15 @@ export default defineConfig({
       { text: 'Compatibility Chart', link: '/charts/' }
     ],
 
+    notFound: {
+      title: 'Page not found!',
+      quote: "But if you don't change your direction, and if you keep looking, you may end up where you are heading.",
+      video: 'alien :)',
+      linkLabel: 'go to home',
+      linkText: 'Take me home',
+      code: '404'
+    },
+
     sidebar: [
       {
         items: [
