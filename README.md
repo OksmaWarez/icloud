@@ -82,6 +82,7 @@
 ### Tutorials
 - [x] Removing setup.app
 - [x] Using 32bit-Bruteforce-Passcode
+- [x] Using lockdownd Hacktivation
 - [x] Using bookra1n (checkm8)
 - [x] Using Hackt1vator (checkm8)
 - [ ] Using Hackt1vator (A12+)
