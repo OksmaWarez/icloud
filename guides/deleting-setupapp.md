@@ -5,8 +5,6 @@ description: Deleting Setup.app | iCloud Bypass Guide
 
 # Deleting Setup.app
 
-## Overview
-
 Deleting Setup.app is an universal method to bypass activation on 32-bit iOS devices in case a specific device and iOS version combination is not supported by any other tool.
 
 ::: warning
@@ -18,16 +16,15 @@ It is strongly recommended to use any other method for bypassing activation, as 
 :::
 
 ::: info
-Entering pwnDFU mode on A5(X) devices WILL require the use of <a href="misc/pwning-with-checkm8-a5">checkm8-a5</a>, which require the use of a Raspberry Pi Pico or an Arduino with a USB host shield.
+Entering pwnDFU mode on A5(X) devices WILL require the use of <a href="misc/pwning-with-checkm8-a5">checkm8-a5</a>, which requires the use of a Raspberry Pi Pico or an Arduino with a USB host shield.
 :::
 
 ## Requirements
 
-A computer running Linux or macOS with the following installed:
-
+- A computer running Linux or macOS.
 - An SSH ramdisk creation and booting tool, like [Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) or [SSHRD_Script](https://github.com/verygenericname/SSHRD_Script)
 
-## Creating a Ramdisk
+## Booting an SSH Ramdisk
 
 Click one of the tools below to reveal the matching ramdisk creation instructions.
 

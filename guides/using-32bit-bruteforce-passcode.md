@@ -8,7 +8,7 @@ description: Using 32bit-Bruteforce-Passcode | iCloud Bypass Guide
 Using 32bit-Bruteforce-Passcode is a universal way of bruteforcing 4-6 digit passcodes on 32-bit iOS devices. It is commonly used for easier entering into pwnDFU (kDFU) mode and app preservation.
 
 ::: info
-Entering pwnDFU mode on A5(X) devices WILL require the use of <a href="misc/pwning-with-checkm8-a5">checkm8-a5</a>, which require the use of a Raspberry Pi Pico or an Arduino with a USB host shield.
+Entering pwnDFU mode on A5(X) devices WILL require the use of <a href="misc/pwning-with-checkm8-a5">checkm8-a5</a>, which requires the use of a Raspberry Pi Pico or an Arduino with a USB host shield.
 :::
 
 ## Requirements

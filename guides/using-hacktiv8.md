@@ -9,7 +9,7 @@ hacktiv8 is an untethered bypass tool for compatible iOS versions from 8.4.1 to 
 
 ## Requirements
 
-A computer running Windows, macOS or Linux [hacktiv8](https://github.com/overcast302/hacktiv8/releases) installed.
+- A computer running Windows, macOS or Linux with [hacktiv8](https://github.com/overcast302/hacktiv8/releases) installed.
 
 ## Running hacktiv8
 

@@ -5,8 +5,6 @@ description: Using bookra1n (checkm8) | iCloud Bypass Guide
 
 # Using Bookra1n (checkm8)
 
-## Overview
-
 Bookra1n's checkm8 activator is an untethered bypass tool for Checkm8-compatible devices up to iOS 18.
 
 # Requirements
