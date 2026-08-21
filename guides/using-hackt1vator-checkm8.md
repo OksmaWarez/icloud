@@ -15,7 +15,9 @@ Hackt1vator is an untethered bypass tool for Checkm8-compatible devices and A12+
 - The latest version of [palen1x](https://github.com/palera1n/palen1x/releases). (Only for Windows)
 - [Ventoy](https://github.com/ventoy/Ventoy/releases). (Only for Windows)
 
-## Jailbreaking (Windows)
+## Jailbreaking
+
+::: details **Windows** instructions
 
 1. Download and extract the contents of the `ventoy-x.x.x-windows.zip` file.
 2. Insert your USB drive if you have not already done so, and open the `Ventoy2Disk.exe` file.
@@ -31,13 +33,17 @@ Hackt1vator is an untethered bypass tool for Checkm8-compatible devices and A12+
 9. Type `palera1n -l`.
 10. Follow the on screen instructions to enter DFU mode.
 
-## Jailbreaking (macOS)
+:::
+
+::: details **macOS** instructions
 
 1. Open up a Terminal window.
 2. Run `/bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"`
 3. It should prompt you to install Palera1n, press enter.
 4. Run `palera1n -l` in terminal.
 5. Follow the on screen instructions to enter DFU mode.
+
+:::
 
 ## Running Hackt1vator
 
