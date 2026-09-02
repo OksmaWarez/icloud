@@ -1752,7 +1752,7 @@ export const iphone: Device[] = [
           "span": 1
         },
         {
-          "html": "<a href=\"/guides/deleting-setupapp\">Deleting setup.app</a>",
+          "html": "<a href=\"/guides/hacktivating-with-legacyioskit\">Hacktivating with Legacy iOS Kit</a>",
           "span": 1
         },
         {
