@@ -25,7 +25,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/OksmaWarez/icloud' }
+      { icon: 'github', link: 'https://github.com/OksmaWarez/icloud' },
+      { icon: 'discord', link: 'https://discord.gg/QewGtKS4dP' }
     ]
   }
 })
