@@ -23,7 +23,7 @@ description: Different firmware versions will require different steps to bypass 
           <tr>
             <td>7.1.2</td>
             <td>7.0</td>
-            <td><a href="/guides/deleting-setupapp">Deleting setup.app</a></td>
+            <td><a href="/guides/hacktivating-with-legacy-ios-kit">Hacktivating with Legacy-iOS-Kit</a></td>
             <td rowspan="3"><a href="/guides/using-32bit-bruteforce-passcode">Using 32bit-Bruteforce-Passcode</a></td>
           </tr>
           <tr>
