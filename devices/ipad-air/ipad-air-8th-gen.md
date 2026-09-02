@@ -20,7 +20,7 @@ description: Different firmware versions will require different steps to bypass 
           </tr>
         </thead>
         <tbody>
-            <tr>
+          <tr>
             <td>26.3.1</td>
             <td>26.5.2</td>
             <td>-</td>

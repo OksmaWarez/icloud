@@ -20,11 +20,6 @@ description: Different firmware versions will require different steps to bypass 
         </thead>
         <tbody>
           <tr>
-            <td>26.1 (26.2 beta 2)</td>
-            <td>26.5</td>
-            <td>-</td>
-          </tr>
-          <tr>
             <td>18.3.1</td>
             <td>26.1 (26.2 beta 1)</td>
             <td><a href="/guides/using-hackt1vator-a12">Using Hackt1vator (A12+)</a></td>
