@@ -19,7 +19,6 @@ description: Different firmware versions will require different steps to bypass 
           </tr>
         </thead>
         <tbody>
-  
           <tr>
             <td>17.5</td>
             <td>26.1 (26.2 beta 1)</td>
