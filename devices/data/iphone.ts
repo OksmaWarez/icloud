@@ -772,6 +772,77 @@ export const iphone: Device[] = [
     ]
   },
   {
+    "slug": "iphone-xr",
+    "name": "iPhone XR",
+    "category": "iphone",
+    "status": "compatible",
+    "version": "iOS 18.7.2",
+    "note": null,
+    "columns": [
+      "From",
+      "To",
+      "Hello Screen"
+    ],
+    "grid": [
+      [
+        {
+          "html": "18.7.3",
+          "span": 1
+        },
+        {
+          "html": "18.7.9",
+          "span": 1
+        },
+        {
+          "html": null,
+          "span": 1
+        }
+      ],
+      [
+        {
+          "html": "18.0",
+          "span": 1
+        },
+        {
+          "html": "18.7.2",
+          "span": 1
+        },
+        {
+          "html": "<a href=\"/guides/using-hackt1vator-a12\">Using Hackt1vator (A12+)</a>",
+          "span": 1
+        }
+      ],
+      [
+        {
+          "html": "14.0",
+          "span": 1
+        },
+        {
+          "html": "17.7",
+          "span": 1
+        },
+        {
+          "html": "<a href=\"/guides/using-r1nderpest\">Using R1nderpest</a>",
+          "span": 1
+        }
+      ],
+      [
+        {
+          "html": "12.0",
+          "span": 1
+        },
+        {
+          "html": "13.7",
+          "span": 1
+        },
+        {
+          "html": null,
+          "span": 1
+        }
+      ]
+    ]
+  },
+  {
     "slug": "iphone-x",
     "name": "iPhone X",
     "category": "iphone",
