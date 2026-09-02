@@ -2,8 +2,6 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import CompatTable from './components/CompatTable.vue'
-import VersionTable from './components/VersionTable.vue'
 import './style.css'
 
 export default {
@@ -14,7 +12,6 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    app.component('CompatTable', CompatTable)
-    app.component('VersionTable', VersionTable)
+    // ...
   }
 } satisfies Theme
