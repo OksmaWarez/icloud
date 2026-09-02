@@ -99,7 +99,7 @@ Have a Plus/Pro/Mini variant of a device and can't find a chart for it? Use the 
 
 | Model | Latest bypassable iPadOS version |
 | --- | --- |
-| iPad Air (8th Gen)/devices/ipad-air/ipad-air-8th-gen | <span class="status status--none">None</span> |
+| iPad Air (8th Gen) | <span class="status status--none">None</span> |
 | [iPad Air (7th Gen)](/devices/ipad-air/ipad-air-7th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
 | [iPad Air (6th Gen)](/devices/ipad-air/ipad-air-6th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
 | [iPad Air (5th Gen)](/devices/ipad-air/ipad-air-5th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
