@@ -1,7 +1,15 @@
 import { defineConfig } from 'vitepress'
+import multimdTable from 'markdown-it-multimd-table'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  markdown: {
+    config: (md) => {
+      md.use(multimdTable, {
+        rowspan: true, // Enables column/row merging syntax
+      })
+    }
+  },
   title: "iCloud Bypass Guide",
   description: "A complete iCloud bypassing guide, from stock to bypassed.",
   ignoreDeadLinks: true,

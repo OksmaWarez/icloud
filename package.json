@@ -5,6 +5,7 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
+    "markdown-it-multimd-table": "^4.2.3",
     "vitepress": "^1.6.4"
   }
 }

@@ -9,27 +9,11 @@ description: Different firmware versions will require different steps to bypass 
 
 <p class="device-lead">Different firmware versions will require different steps to bypass your iOS device. This page will help you find where to start. Select the appropriate page for your version from the chart below. Note that the "from" and "to" fields are inclusive. This means that, for example, the "from 10.0 to 10.3.4" row includes version 10.0, version 10.3.4, and all versions in-between.</p>
 
-<h2>iPad Mini (5th Gen)</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>From</th>
-            <th>To</th>
-            <th>Hello Screen</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>13.1</td>
-            <td>26.1 (26.2 Beta 1)</td>
-            <td><a href="/guides/using-hackt1vator-a12">Using Hackt1vator (A12+)</a></td>
-          </tr>
-          <tr>
-            <td>12.2</td>
-            <td>12.4.1</td>
-            <td><a href="/guides/using-ifrpfile">Using iFRPFILE</a></td>
-          </tr>
-        </tbody>
-      </table>
+## iPad Mini (5th Gen)
+
+| From | To | Hello Screen |
+| --- | --- | --- |
+| 13.1 | 26.1 (26.2 Beta 1) | [Using Hackt1vator (A12+)](/guides/using-hackt1vator-a12) |
+| 12.2 | 12.4.1 | [Using iFRPFILE](/guides/using-ifrpfile) |
 
 <footer class="device-footer"><p>For educational purposes only. Respect ownership and legal restrictions.</p></footer>
