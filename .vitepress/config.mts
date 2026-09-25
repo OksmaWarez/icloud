@@ -3,6 +3,7 @@ import multimdTable from 'markdown-it-multimd-table'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/icloud/',
   markdown: {
     config: (md) => {
       md.use(multimdTable, {
@@ -16,18 +17,18 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Compatibility Chart', link: '/charts/' }
+      { text: 'Home', link: '/icloud/' },
+      { text: 'Compatibility Chart', link: '/icloud/charts/' }
     ],
 
     sidebar: [
       {
         items: [
-          { text: 'iCloud Bypass Guide' , link: '/' },
-          { text: 'Get Started', link: '/charts/' },
-          { text: 'Sideloading without Setup.app', link: '/guides/misc/sideloading-without-setupapp' },
-          { text: 'iTunes Syncing without Setup.app', link: '/guides/misc/itunes-syncing-without-setupapp' },
-          { text: 'Pwning with checkm8-a5', link: '/guides/misc/pwning-with-checkm8-a5' },
+          { text: 'iCloud Bypass Guide' , link: '/icloud/' },
+          { text: 'Get Started', link: '/icloud/charts/' },
+          { text: 'Sideloading without Setup.app', link: '/icloud/guides/misc/sideloading-without-setupapp' },
+          { text: 'iTunes Syncing without Setup.app', link: '/icloud/guides/misc/itunes-syncing-without-setupapp' },
+          { text: 'Pwning with checkm8-a5', link: '/icloud/guides/misc/pwning-with-checkm8-a5' },
         ]
       }
     ],
