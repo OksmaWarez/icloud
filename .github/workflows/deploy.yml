@@ -2,7 +2,7 @@ name: deploy to gh pages
 
 on:
   push:
-    branches: [dev]
+    branches: [main]
 
   workflow_dispatch:
 
@@ -22,30 +22,30 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Needed for lastUpdated in VitePress
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm # or pnpm / yarn, see below
+          cache: npm
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
       - name: Install dependencies
-        run: npm ci # or `pnpm install`, `yarn install`
+        run: npm ci
 
       - name: Build with VitePress
-        run: npm run docs:build # adjust to your VitePress build script
+        run: npm run docs:build
         env:
           NODE_ENV: production
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/.vitepress/dist # adjust to your VitePress outDir
+          path: .vitepress/dist
 
   deploy:
     environment:
