@@ -25,6 +25,7 @@ Have a Plus/Pro/Mini variant of a device and can't find a chart for it? Use the 
 
 | Model | Latest bypassable iOS version |
 | --- | --- |
+| iPhone 18 Pro | <span class="status status--none">None</span> |
 | iPhone 17e | <span class="status status--none">None</span> |
 | [iPhone Air](/devices/iphone/iphone-air) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
 | [iPhone 17](/devices/iphone/iphone-17) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
@@ -37,8 +38,8 @@ Have a Plus/Pro/Mini variant of a device and can't find a chart for it? Use the 
 | [iPhone 12](/devices/iphone/iphone-12) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
 | [iPhone SE (2nd Gen, 2020)](/devices/iphone/iphone-se-2) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
 | [iPhone 11](/devices/iphone/iphone-11) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
-| [iPhone XS Max](/devices/iphone/iphone-xs-max) | <span class="status status--compatible">iOS 18.7.2</span> |
-| [iPhone XS/XR](/devices/iphone/iphone-xs) | <span class="status status--compatible">iOS 18.7.2</span> |
+| [iPhone XS Max](/devices/iphone/iphone-xs-max) | <span class="status status--latest">iOS 18.7.9</span> |
+| [iPhone XS/XR](/devices/iphone/iphone-xs) | <span class="status status--latest">iOS 18.7.9</span> |
 | [iPhone X](/devices/iphone/iphone-x) | <span class="status status--latest">iOS 16.7.16</span> |
 | [iPhone 8+](/devices/iphone/iphone-8+) | <span class="status status--latest">iOS 16.7.16</span> |
 | [iPhone 8](/devices/iphone/iphone-8) | <span class="status status--latest">iOS 16.7.16</span> |
@@ -62,7 +63,7 @@ Have a Plus/Pro/Mini variant of a device and can't find a chart for it? Use the 
 | [iPad (11th Gen)](/devices/ipad/ipad-11) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
 | [iPad (10th Gen)](/devices/ipad/ipad-10) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
 | [iPad (9th Gen)](/devices/ipad/ipad-9) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
-| [iPad (8th Gen)](/devices/ipad/ipad-8) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| [iPad (8th Gen)](/devices/ipad/ipad-8) | <span class="status status--latest">iPadOS 27.0.1</span> |
 | [iPad (7th Gen)](/devices/ipad/ipad-7) | <span class="status status--latest">iPadOS 18.7.9</span> |
 | [iPad (6th Gen)](/devices/ipad/ipad-6) | <span class="status status--latest">iPadOS 17.7.11</span> |
 | [iPad (5th Gen)](/devices/ipad/ipad-5) | <span class="status status--latest">iPadOS 16.7.16</span> |
@@ -76,7 +77,7 @@ Have a Plus/Pro/Mini variant of a device and can't find a chart for it? Use the 
 | --- | --- |
 | [iPad Mini (7th Gen)](/devices/ipad-mini/ipad-mini-7th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
 | [iPad Mini (6th Gen)](/devices/ipad-mini/ipad-mini-6th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
-| [iPad Mini (5th Gen)](/devices/ipad-mini/ipad-mini-5th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| [iPad Mini (5th Gen)](/devices/ipad-mini/ipad-mini-5th-gen) | <span class="status status--latest">iPadOS 27.0.1</span> |
 | [iPad Mini (4th Gen)](/devices/ipad-mini/ipad-mini-4th-gen) | <span class="status status--latest">iPadOS 15.8.8</span> |
 | [iPad Mini (3rd Gen)](/devices/ipad-mini/ipad-mini-3rd-gen) | <span class="status status--latest">iOS 12.5.8</span> |
 | [iPad Mini (2nd Gen)](/devices/ipad-mini/ipad-mini-2nd-gen) | <span class="status status--latest">iOS 12.5.8</span> |
@@ -104,7 +105,7 @@ Have a Plus/Pro/Mini variant of a device and can't find a chart for it? Use the 
 | [iPad Air (6th Gen)](/devices/ipad-air/ipad-air-6th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
 | [iPad Air (5th Gen)](/devices/ipad-air/ipad-air-5th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
 | [iPad Air (4th Gen)](/devices/ipad-air/ipad-air-4th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
-| [iPad Air (3rd Gen)](/devices/ipad-air/ipad-air-3rd-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| [iPad Air (3rd Gen)](/devices/ipad-air/ipad-air-3rd-gen) | <span class="status status--latest">iPadOS 27.0.1</span> |
 | [iPad Air (2nd Gen)](/devices/ipad-air/ipad-air-2nd-gen) | <span class="status status--latest">iPadOS 15.8.8</span> |
 | [iPad Air](/devices/ipad-air/ipad-air) | <span class="status status--latest">iOS 12.5.8</span> |
 
