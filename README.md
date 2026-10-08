@@ -86,6 +86,7 @@
 - [x] Using bookra1n (checkm8)
 - [x] Using Hackt1vator (checkm8)
 - [ ] Using Hackt1vator (A12+)
+- [ ] Using Bookra1n (usbliter8)
 - [ ] Using iFRPFILE
 - [ ] Using R1nderpest
 - [x] Sideloading without setup.app
