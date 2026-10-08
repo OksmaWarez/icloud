@@ -36,8 +36,8 @@ Have a Plus/Pro/Mini variant of a device and can't find a chart for it? Use the 
 | [iPhone SE (3rd Gen, 2022)](/devices/iphone/iphone-se-3) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
 | [iPhone 13](/devices/iphone/iphone-13) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
 | [iPhone 12](/devices/iphone/iphone-12) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
-| [iPhone SE (2nd Gen, 2020)](/devices/iphone/iphone-se-2) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
-| [iPhone 11](/devices/iphone/iphone-11) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
+| [iPhone SE (2nd Gen, 2020)](/devices/iphone/iphone-se-2) | <span class="status status--latest">iOS 27.0.1</span> |
+| [iPhone 11](/devices/iphone/iphone-11) | <span class="status status--latest">iOS 27.0.1</span> |
 | [iPhone XS Max](/devices/iphone/iphone-xs-max) | <span class="status status--latest">iOS 18.7.10</span> |
 | [iPhone XS/XR](/devices/iphone/iphone-xs) | <span class="status status--latest">iOS 18.7.10</span> |
 | [iPhone X](/devices/iphone/iphone-x) | <span class="status status--latest">iOS 16.7.16</span> |
@@ -62,7 +62,7 @@ Have a Plus/Pro/Mini variant of a device and can't find a chart for it? Use the 
 | --- | --- |
 | [iPad (11th Gen)](/devices/ipad/ipad-11) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
 | [iPad (10th Gen)](/devices/ipad/ipad-10) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
-| [iPad (9th Gen)](/devices/ipad/ipad-9) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| [iPad (9th Gen)](/devices/ipad/ipad-9) | <span class="status status--latest">iPadOS 27.0.1</span> |
 | [iPad (8th Gen)](/devices/ipad/ipad-8) | <span class="status status--latest">iPadOS 26.7.1</span> |
 | [iPad (7th Gen)](/devices/ipad/ipad-7) | <span class="status status--latest">iPadOS 18.7.10</span> |
 | [iPad (6th Gen)](/devices/ipad/ipad-6) | <span class="status status--latest">iPadOS 17.7.11</span> |
