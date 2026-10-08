@@ -13,6 +13,7 @@ description: Different firmware versions will require different steps to bypass 
 
 | From | To | Hello Screen |
 | --- | --- | --- |
+| 26.2 (26.2 beta 2) | 26.7.1 | [Using Bookra1n (usbliter8)](/guides/using-bookra1n-usbliter8) |
 | 13.1 | 26.1 (26.2 Beta 1) | [Using Hackt1vator (A12+)](/guides/using-hackt1vator-a12) |
 | 12.2 | 12.4.1 | [Using iFRPFILE](/guides/using-ifrpfile) |
 
