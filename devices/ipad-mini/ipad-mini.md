@@ -13,6 +13,6 @@ description: Different firmware versions will require different steps to bypass 
 
 | From | To | Hello Screen | Passcode Screen |
 | --- | --- | --- | --- |
-| 6.0 | 9.3.6 | [Using hacktiv8](/guides/using-hacktiv8)| ^^ |
+| 6.0 | 9.3.6 | [Using hacktiv8](/guides/using-hacktiv8)| [Using 32bit-Bruteforce-Passcode](/guides/using-32bit-bruteforce-passcode) |
 
 <footer class="device-footer"><p>For educational purposes only. Respect ownership and legal restrictions.</p></footer>

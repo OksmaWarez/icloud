@@ -16,6 +16,6 @@ description: Different firmware versions will require different steps to bypass 
 | 17.0 | 17.7.11 | [Using bookra1n (checkm8)](/guides/using-bookra1n-checkm8) | [Restoring with Activation Tickets](/guides/restoring-with-activation-tickets) |
 | 13.0 | 16.6.1 | [Using Hackt1vator (checkm8)](/guides/using-hackt1vator-checkm8) | ^^ |
 | 12.0 | 12.4.1 | [Using iFRPFILE](/guides/using-ifrpfile) | - |
-| 11.3 | 11.4.1 | [Deleting setup.app](/guides/deleting-setupapp) | - |
+| 11.3 | 11.4.1 | [Deleting setup.app](/guides/deleting-setupapp) | ^^ |
 
 <footer class="device-footer"><p>For educational purposes only. Respect ownership and legal restrictions.</p></footer>

@@ -15,8 +15,8 @@ description: Different firmware versions will require different steps to bypass 
 | --- | --- | --- | --- |
 | 13.0 | 15.8.8 | [Using Hackt1vator (checkm8)](/guides/using-hackt1vator-checkm8) | [Restoring with Activation Tickets](/guides/restoring-with-activation-tickets) |
 | 12.0 | 12.4.1 | [Using iFRPFILE](/guides/using-ifrpfile) | ^^ |
-| 10.0.1 | 11.4.1 | [Deleting setup.app](/guides/deleting-setupapp) | - |
-| 9.0 | 9.3.5 | [Deleting setup.app](/guides/deleting-setupapp) | - |
-| 8.0 | 8.4.1 | [Obtaining Unlimited Passcode Attempts](/guides/obtaining-unlimited-passcode-attempts) | - |
+| 11.0 | 11.4.1 | [Deleting setup.app](/guides/deleting-setupapp) | - |
+| 9.0 | 10.3.4 | [Using hacktiv8](/guides/using-hacktiv8) | ^^ |
+| 8.0 | 8.4.1 | ^^ | [Obtaining Unlimited Passcode Attempts](/guides/obtaining-unlimited-passcode-attempts) |
 
 <footer class="device-footer"><p>For educational purposes only. Respect ownership and legal restrictions.</p></footer>

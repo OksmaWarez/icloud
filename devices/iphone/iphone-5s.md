@@ -15,7 +15,7 @@ description: Different firmware versions will require different steps to bypass 
 | --- | --- | --- | --- |
 | 12.0 | 12.5.8 | [Using iFRPFILE](/guides/using-ifrpfile) | [Restoring with Activation Tickets](/guides/restoring-with-activation-tickets) |
 | 10.0.1 | 11.4.1 | [Deleting setup.app](/guides/deleting-setupapp) | ^^ |
-| 9.0 | 9.3.5 | ^^ | - |
-| 7.0 | 8.4.1 | ^^ | [Obtaining Unlimited Passcode Attempts](/guides/obtaining-unlimited-passcode-attempts) |
+| 9.0 | 9.3.5 | [Using hacktiv8](/guides/using-hacktiv8) | - |
+| 7.0 | 8.4.1 | [Deleting setup.app](/guides/deleting-setupapp) | [Obtaining Unlimited Passcode Attempts](/guides/obtaining-unlimited-passcode-attempts) |
 
 <footer class="device-footer"><p>For educational purposes only. Respect ownership and legal restrictions.</p></footer>

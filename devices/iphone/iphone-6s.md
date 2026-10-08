@@ -16,6 +16,6 @@ description: Different firmware versions will require different steps to bypass 
 | 13.0 | 15.8.8 | [Using Hackt1vator (checkm8)](/guides/using-hackt1vator-checkm8) | [Restoring with Activation Tickets](/guides/restoring-with-activation-tickets) |
 | 12.0 | 12.5.8 | [Using iFRPFILE](/guides/using-ifrpfile) | ^^ |
 | 10.0.1 | 11.4.1 | [Deleting setup.app](/guides/deleting-setupapp) | ^^ |
-| 9.0 | 9.3.5 | ^^ | - |
+| 9.0 | 9.3.5 | [Using hacktiv8](/guides/using-hacktiv8) | - |
 
 <footer class="device-footer"><p>For educational purposes only. Respect ownership and legal restrictions.</p></footer>
