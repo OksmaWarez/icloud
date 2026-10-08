@@ -13,6 +13,6 @@ description: Different firmware versions will require different steps to bypass 
 
 | From | To | Hello Screen |
 | --- | --- | --- |
-| 13.1 | 18.7.9 | [Using bookra1n (checkm8)](/guides/using-bookra1n-checkm8) |
+| 13.1 | 18.7.10 | [Using bookra1n (checkm8)](/guides/using-bookra1n-checkm8) |
 
 <footer class="device-footer"><p>For educational purposes only. Respect ownership and legal restrictions.</p></footer>
