@@ -13,7 +13,7 @@ description: Different firmware versions will require different steps to bypass 
 
 | From | To | Hello Screen | Passcode Screen |
 | --- | --- | --- | --- |
-| 13.0 | 15.8.8 | [Using Hackt1vator (checkm8)](/guides/using-hackt1vator-checkm8) | [Restoring with Activation Tickets](/guides/restoring-with-activation-tickets) |
+| 13.0 | 15.8.8 | [Using bookra1n (checkm8)](/guides/using-bookra1n-checkm8) | [Restoring with Activation Tickets](/guides/restoring-with-activation-tickets) |
 | 12.3.1 | 12.4.1 | [Using iFRPFILE](/guides/using-ifrpfile) | ^^ |
 
 <footer class="device-footer"><p>For educational purposes only. Respect ownership and legal restrictions.</p></footer>
