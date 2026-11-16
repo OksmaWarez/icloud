@@ -18,14 +18,15 @@ If you own the Apple Account connected to the device, you should try to [recover
 </div>
 
 ::: tip Model variants
-Have a Plus/Pro/Mini variant of a device and can't find a chart for it? Use the regular model!
+Have a Plus/Pro/Mini variant of an iPhone and can't find a chart for it? Use the regular model!
 :::
 
 ## iPhone {#iphone}
 
 | Model | Latest bypassable iOS version |
 | --- | --- |
-| iPhone 18 Pro | <span class="status status--none">None</span> |
+| iPhone Duo | <span class="status status--none">None</span> |
+| iPhone 18 | <span class="status status--none">None</span> |
 | iPhone 17e | <span class="status status--none">None</span> |
 | [iPhone Air](/devices/iphone/iphone-air) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
 | [iPhone 17](/devices/iphone/iphone-17) | <span class="status status--compatible">iOS 26.1 (26.2 beta 1)</span> |
@@ -75,6 +76,7 @@ Have a Plus/Pro/Mini variant of a device and can't find a chart for it? Use the 
 
 | Model | Latest bypassable iPadOS version |
 | --- | --- |
+| iPad Mini (8th Gen) | <span class="status status--none">None</span> |
 | [iPad Mini (7th Gen)](/devices/ipad-mini/ipad-mini-7th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
 | [iPad Mini (6th Gen)](/devices/ipad-mini/ipad-mini-6th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
 | [iPad Mini (5th Gen)](/devices/ipad-mini/ipad-mini-5th-gen) | <span class="status status--latest">iPadOS 26.7.1</span> |
@@ -83,18 +85,26 @@ Have a Plus/Pro/Mini variant of a device and can't find a chart for it? Use the 
 | [iPad Mini (2nd Gen)](/devices/ipad-mini/ipad-mini-2nd-gen) | <span class="status status--latest">iOS 12.5.8</span> |
 | [iPad Mini](/devices/ipad-mini/ipad-mini) | <span class="status status--latest">iOS 9.3.6</span> |
 
+::: tip Model variants
+iPad Pros are more difficult to identify (They have two series!). Find your CPU model, or screen size first.
+:::
+
 ## iPad Pro {#ipad-pro}
 
 | Model | Latest bypassable iPadOS version |
 | --- | --- |
-| [iPad Pro (8th Gen)](/devices/ipad-pro/ipad-pro-8th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
-| [iPad Pro (7th Gen)](/devices/ipad-pro/ipad-pro-7th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
-| [iPad Pro (6th Gen)](/devices/ipad-pro/ipad-pro-6th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
-| [iPad Pro (5th Gen)](/devices/ipad-pro/ipad-pro-5th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
-| [iPad Pro (4th Gen)](/devices/ipad-pro/ipad-pro-4th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
-| [iPad Pro (3rd Gen)](/devices/ipad-pro/ipad-pro-3rd-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
-| [iPad Pro (2nd Gen)](/devices/ipad-pro/ipad-pro-2nd-gen) | <span class="status status--latest">iPadOS 17.7.11</span> |
-| [iPad Pro](/devices/ipad-pro/ipad-pro) | <span class="status status--latest">iPadOS 16.7.16</span> |
+| [iPad Pro (8th Gen, M5)](/devices/ipad-pro/ipad-pro-8th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| [iPad Pro (7th Gen, M4)](/devices/ipad-pro/ipad-pro-7th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| [iPad Pro (6th Gen, M2)](/devices/ipad-pro/ipad-pro-6th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| iPad Pro (4th Gen, M2) (11", 2022) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| [iPad Pro (5th Gen, M1) (2021)](/devices/ipad-pro/ipad-pro-5th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| iPad Pro (3rd Gen, M1) (11", 2021) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| [iPad Pro (4th Gen, A12Z) (12.9"", 2020)](/devices/ipad-pro/ipad-pro-4th-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> | 
+| iPad Pro (2nd Gen, A12X) (11", 2020) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| [iPad Pro (3rd Gen, A12X) (12.9", 2018)](/devices/ipad-pro/ipad-pro-3rd-gen) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| iPad Pro (A12X, 11", 2018) | <span class="status status--compatible">iPadOS 26.1 (26.2 beta 1)</span> |
+| [iPad Pro (2nd Gen, A10X) (12.9", 2017)](/devices/ipad-pro/ipad-pro-2nd-gen) | <span class="status status--latest">iPadOS 17.7.11</span> |
+| [iPad Pro (A9X, 12.9", 2016)](/devices/ipad-pro/ipad-pro) | <span class="status status--latest">iPadOS 16.7.16</span> |
 
 ## iPad Air {#ipad-air}
 
